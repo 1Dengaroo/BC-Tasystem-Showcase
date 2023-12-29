@@ -1,6 +1,6 @@
 # TA Buzz
 
-TA Buzz is a TA-Professor matching made for Boston College to streamline to process of matching student TAs with Professors.
+TA Buzz is a TA-Professor matching made for Boston College to streamline to process of matching student TAs with Professors. Here is most of the source code.
 
 ## Installation
 ```bash
